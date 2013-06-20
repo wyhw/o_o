@@ -1,3 +1,5 @@
+##JQuery select 改变 attr selected和事件触发
+
 ```
 var select = function(dropdown, selectedValue) {
   var options = $(dropdown).find("option");
